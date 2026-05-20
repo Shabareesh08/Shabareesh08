@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on Building webs
-- 📫 How to reach me shabareeshreddy1432@gmail.com
+- 📫 How to reach me shabareeshdevireddy@gmail.com
 
 <!---
 Shabareesh08/Shabareesh08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
